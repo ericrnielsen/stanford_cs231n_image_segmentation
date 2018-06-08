@@ -1,1 +1,1 @@
-# cs230-savetheworld
+# Semi-supervised Image Segmentation of Satellite Imagery
